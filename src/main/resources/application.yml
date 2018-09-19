@@ -1,4 +1,6 @@
 spring:
   application:
     name: soap-client
-webserviceEndPoint: http://localhost:8082
+webserviceEndPoint: http://localhost:8081
+server:
+ port: 8080
